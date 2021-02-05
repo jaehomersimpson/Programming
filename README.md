@@ -1,2 +1,3 @@
 # this repository is for my studying python 
-# I'm trying to commit once a day for 3 years
+# I'm trying to commit once a day (1 day 1 commit)
+
